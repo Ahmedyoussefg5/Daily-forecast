@@ -7,6 +7,6 @@ target 'Daily forecast Application-Orcas Task' do
 
   # Pods for Daily forecast Application-Orcas Task
   pod 'Alamofire'
-#  pod 'RealmSwift'
+  pod 'RealmSwift'
 #  pod 'Unrealm'
 end
